@@ -8,7 +8,7 @@
 
 nav ul a,
 nav .brand-logo {
-  color: #444;
+  color: #fff  ;
 }
 
 p {
@@ -54,4 +54,19 @@ p {
 
 footer.page-footer {
   margin: 0;
+}
+
+.logo {
+  left: 35px;
+  width: 100px;
+}
+
+.navP {
+  height: 120px;
+}
+
+#fotoIndex {
+    display: flex;
+    align-self: center;
+    margin: auto;
 }
