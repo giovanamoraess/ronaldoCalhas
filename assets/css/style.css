@@ -1200,3 +1200,15 @@ footer a {
 {
 	height: 150px;
 }
+
+
+.espaco-item {
+	margin-bottom: 26px;
+}
+
+#div-slogan {
+	margin-left: 750px;
+	font-size: 25px;
+	font-family: fantasy;
+	margin-top: -60px;
+}
